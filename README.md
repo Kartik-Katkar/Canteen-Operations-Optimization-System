@@ -9,11 +9,3 @@ Order Management: Easily manage customer orders, track inventory levels, and red
 Menu Customization: Create and modify menus based on customer preferences and dietary requirements.
 
 Inventory Control: Keep track of your stock, receive low-stock alerts, and reduce overstocking.
-
-Employee Management: Efficiently schedule shifts, manage staff, and optimize labor costs.
-
-Customer Engagement: Enhance customer satisfaction through loyalty programs, feedback collection, and personalized promotions.
-
-Analytics and Reporting: Gain insights into your canteen's performance through detailed reports and data analysis.
-
-Cost Reduction: Identify cost-saving opportunities and improve overall profitability.
